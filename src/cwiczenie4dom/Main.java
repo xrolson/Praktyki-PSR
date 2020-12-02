@@ -1,9 +1,9 @@
 package cwiczenie4dom;
 
 public class Main {
-    public static void suma(int[] ghf){
-        for (int i=0; i< ghf.length; i++){
-            System.out.println(ghf[i] +",");
+    public static void suma(int[] tab){
+        for (int i=0; i< tab.length; i++){
+            System.out.println(tab[i] +",");
         }
     }
 
