@@ -1,6 +1,6 @@
 package Cwiczenie8;
 
-import Cwiczenie7dom.Kostka;
+
 
 public class Main {
     public static void main(String[] args) {
